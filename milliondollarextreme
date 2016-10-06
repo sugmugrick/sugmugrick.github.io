@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+	<!-- Required meta tags always come first -->
+    	<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    	<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    	<!-- Bootstrap CSS -->
+    	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-	alpha.4/css/bootstrap.min.css" integrity="2hfp1SzUoho7/TsGGGDaFdsuuDL0LX2hnUp6VkX3CUQ2K4K	+xjboZdsXyp4oUHZj" crossorigin="anonymous">
+
+    <!-- name -->
+    <title>MillionDollarExtreme</title>
+
+    <!-- My CSS -->
+    <link rel="stylesheet" type="text/css" href="css/home.css">
+
+  </head>
+  
+  <body style="background-color: #6EBDFF">
+      <nav>
+      <div class="container" style="background-color: #6EBDFF">
+	      <center>
+        <ul class = "nav nav-pills" style= "display: inline-block; float: none">
+	<li class="nav-item"><a class="nav-link" href="cancelshredwasted.html"><img src="https://i.vimeocdn.com/portrait/11581057_300x300.webp" width="60"/></a></li>
+	<li class="nav-item"><a class="nav-link" href="lawnmower.html"><img src="https://pbs.twimg.com/profile_images/709776628331642884/KZuAM9I5.jpg"/ width="60"></a></li>
+  <li class="nav-item"><a class="nav-link" href="sunriseparadise.html"><img src="https://scontent-iad3-1.xx.fbcdn.net/t31.0-8/11999782_1541433569483323_4428452811440019610_o.png" width="60"/></a></li>
+	<li class="nav-item"><a class="nav-link" href="mde.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mde.jpg/200px-Mde.jpg" width="60"/></a></li>
+	<li class="nav-item"><a class="nav-link" href="info.html"><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/12741937_1265644076784928_140237009391303832_n.jpg?oh=79cefc3325e150fbad7b66bd7c718325&oe=58446114"/ width="60"></a></li>
+        </ul>
+	      </center>
+      </div>
+      </nav>
+
+          <div class="jumbotron home_jumbotron" style="background-color: #FFFFFF">
+<div style="background-color: #FFFFFF"><center><img src="http://i.cdn.turner.com/adultswim/big/img/2016/08/01/milliondollarextreme_Header.png" class="img-fluid"></center>
+      </div>
+      <div class="container">
+  <center>
+<div class="row">
+  <div class="col-md-12" style="margin-bottom:20px;"><div class="embed-responsive embed-responsive-16by9">
+  <iframe src="https://www.youtube.com/embed/9Hkov3QcCpQ" width="640" height="360" frameborder="0" allowfullscreen></iframe></div></div>
+</div>
+<div class="row">
+  <div class="col-md-2 offset-md-5" style="margin-bottom:20px;">
+  <h5>Editing</h5></div>
+</div>
+<div class="row">
+<div class="col-md-12" style="margin-bottom:20px;"><div class="embed-responsive embed-responsive-16by9">
+  <iframe src="https://www.youtube.com/embed/ei0YIaIhTkU" width="640" height="360" frameborder="0" allowfullscreen></iframe></div></div>
+</div>
+  <div class="col-md-2 offset-md-5">
+  <h5>Additional Help</h5></div>
+</div>
+      </div>
+    </div>
+
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js" integrity="sha384-THPy051/pYDQGanwU6poAc/hOdQxjnOEXzbT+OuUAFqNqFjL+4IGLBgCJC3ZOShY" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/js/tether.min.js" integrity="sha384-Plbmg8JY28KFelvJVai01l8WyZzrYWG825m+cZ0eDDS1f7d/js6ikvy1+X+guPIB" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/js/bootstrap.min.js" integrity="VjEeINv9OSwtWFLAtmc4JCtEJXXBub00gtSnszmspDLCtC0I4z4nqz7rEFbIZLLU" crossorigin="anonymous"></script>
+  </body>
+</html>
